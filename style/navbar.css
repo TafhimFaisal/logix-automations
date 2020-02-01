@@ -1,0 +1,7 @@
+.navbar{
+    position: sticky;
+    top: 50px;
+}
+.nav-link:after {
+    content: none;
+ }

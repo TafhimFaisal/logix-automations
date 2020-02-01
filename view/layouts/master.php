@@ -3,7 +3,7 @@
 <body class="hold-transition layout-top-nav">
 <div class="wrapper">
   <?php include './view/partials/header.php'?>
-  <?php include './view/partials/banner.php'?>
+  <?php $image = $image; include './view/partials/banner.php'?>
   <?php include './view/partials/navBar.php'?>
 
   <div class="content-wrapper">

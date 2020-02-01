@@ -1,6 +1,9 @@
 .banner {
-    background-image: url('./../Images/banner/images.jpeg');
     background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     height: 160px;
     width: 100%;
+    /* margin-top: 100px; */
 }
