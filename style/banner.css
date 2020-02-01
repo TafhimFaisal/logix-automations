@@ -1,0 +1,6 @@
+.banner {
+    background-image: url('./../Images/banner/images.jpeg');
+    background-attachment: fixed;
+    height: 160px;
+    width: 100%;
+}
